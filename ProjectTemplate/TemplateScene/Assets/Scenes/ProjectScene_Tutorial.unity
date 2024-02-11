@@ -2071,7 +2071,6 @@ GameObject:
   - component: {fileID: 155824190}
   - component: {fileID: 155824194}
   - component: {fileID: 155824193}
-  - component: {fileID: 155824192}
   - component: {fileID: 155824191}
   m_Layer: 5
   m_Name: Tutorial_3
@@ -2119,23 +2118,6 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 4294967295
   m_RaycastTriggerInteraction: 1
---- !u!114 &155824192
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 155824189}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_IgnoreReversedGraphics: 1
-  m_BlockingObjects: 0
-  m_BlockingMask:
-    serializedVersion: 2
-    m_Bits: 4294967295
 --- !u!114 &155824193
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2180,7 +2162,7 @@ Canvas:
   m_AdditionalShaderChannelsFlag: 25
   m_UpdateRectTransformForStandalone: 0
   m_SortingLayerID: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 2
   m_TargetDisplay: 0
 --- !u!1 &163598330
 GameObject:
@@ -2827,7 +2809,6 @@ GameObject:
   - component: {fileID: 194178009}
   - component: {fileID: 194178008}
   - component: {fileID: 194178007}
-  - component: {fileID: 194178006}
   - component: {fileID: 194178010}
   m_Layer: 5
   m_Name: Start
@@ -2835,24 +2816,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
---- !u!114 &194178006
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 194178005}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_IgnoreReversedGraphics: 1
-  m_BlockingObjects: 0
-  m_BlockingMask:
-    serializedVersion: 2
-    m_Bits: 4294967295
+  m_IsActive: 1
 --- !u!114 &194178007
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2897,7 +2861,7 @@ Canvas:
   m_AdditionalShaderChannelsFlag: 25
   m_UpdateRectTransformForStandalone: 0
   m_SortingLayerID: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 5
   m_TargetDisplay: 0
 --- !u!224 &194178009
 RectTransform:
@@ -23895,7 +23859,6 @@ GameObject:
   - component: {fileID: 1507705797}
   - component: {fileID: 1507705800}
   - component: {fileID: 1507705799}
-  - component: {fileID: 1507705798}
   - component: {fileID: 1507705801}
   m_Layer: 5
   m_Name: Tutorial_1
@@ -23903,7 +23866,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &1507705797
 RectTransform:
   m_ObjectHideFlags: 0
@@ -23924,23 +23887,6 @@ RectTransform:
   m_AnchoredPosition: {x: -0.04460358, y: 0.025460243}
   m_SizeDelta: {x: 1092, y: 509}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &1507705798
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1507705796}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_IgnoreReversedGraphics: 1
-  m_BlockingObjects: 0
-  m_BlockingMask:
-    serializedVersion: 2
-    m_Bits: 4294967295
 --- !u!114 &1507705799
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -23985,7 +23931,7 @@ Canvas:
   m_AdditionalShaderChannelsFlag: 25
   m_UpdateRectTransformForStandalone: 0
   m_SortingLayerID: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_TargetDisplay: 0
 --- !u!114 &1507705801
 MonoBehaviour:
@@ -28715,7 +28661,6 @@ GameObject:
   - component: {fileID: 1858981127}
   - component: {fileID: 1858981131}
   - component: {fileID: 1858981130}
-  - component: {fileID: 1858981129}
   - component: {fileID: 1858981128}
   m_Layer: 5
   m_Name: Tutorial_2
@@ -28723,7 +28668,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &1858981127
 RectTransform:
   m_ObjectHideFlags: 0
@@ -28763,23 +28708,6 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 4294967295
   m_RaycastTriggerInteraction: 1
---- !u!114 &1858981129
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1858981126}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_IgnoreReversedGraphics: 1
-  m_BlockingObjects: 0
-  m_BlockingMask:
-    serializedVersion: 2
-    m_Bits: 4294967295
 --- !u!114 &1858981130
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -28824,7 +28752,7 @@ Canvas:
   m_AdditionalShaderChannelsFlag: 25
   m_UpdateRectTransformForStandalone: 0
   m_SortingLayerID: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 3
   m_TargetDisplay: 0
 --- !u!1 &1861298610
 GameObject:
