@@ -1,22 +1,22 @@
 # Virtual-Reality-PA
-Das ist unser Repo zur Projektarbeit im Modul Virtual Reality
+This is our Repo for our Project in our module Virtual Reality
 
 # Projectname
-Ein einleitender Satz was sich in diesem Repo befindet.
+This Repo contains information about how the application works and what features were used to make it interesting to try.
 
 ## Description
 Eine allgemeine und längere Beschreibung des Projektes.
 
 ### Features
-* Feature 1
-* Feature 2
+* Tutorial on how to build a skateboard with fun designs
+* Teleportstations
+* Small trial scene to test your learn effect
 
 ### Controls
-Wie steuert man in der Anwendung / Spiel?
+Over Controllers
 
 ## Authors
 * Ahmad Mariam
-* Decker Juliane
 * Loch Sebastian
 
 ## Credits
@@ -27,8 +27,7 @@ Supervised by Prof. Florian Machill (Virtual Reality WS 23/24)
 ## Third Party Credits
 
 ### Sound
-* Asset-Pack XY [Assetstore](https://assetstore.unity.com/)
-* Asset-Pack YZ [Assetstore](https://assetstore.unity.com/)
+* Camera Focusing and Shutter [Pixabay ](https://pixabay.com/de/sound-effects/camera-focusing-and-shutter-6290/)
 
 ### 3D Assets
 * Asset-Pack XY [Assetstore](https://assetstore.unity.com/)
