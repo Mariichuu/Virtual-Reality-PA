@@ -1,7 +1,7 @@
 # Virtual-Reality-PA
 This is our Repo for our Project in our module Virtual Reality
 
-# Projectname
+# Projectname: Skateboard Construction VR
 This Repo contains information about how the application works and what features were used to make it interesting to try.
 
 ## Description
